@@ -1,0 +1,23 @@
+.body {
+    background: rgb(81, 81, 88);
+}
+
+.mainHeader {
+    color: tomato;
+}
+
+.sectionHeader {
+    color: blueviolet;
+}
+
+.paragraph {
+    color: rgb(63, 77, 139);
+}
+
+.diaryHeader {
+    color: orangered
+}
+
+.paragraphHeader {
+    color: crimson;
+}
